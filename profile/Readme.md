@@ -8,7 +8,7 @@ We specialize in developing:
 
 * **APIs and tools:**  We create robust APIs and developer tools that empower businesses to integrate financial services seamlessly into their applications. 
 * **Microservices architecture:** We leverage microservices architecture to build scalable and adaptable financial infrastructure solutions.
-* **Blockchain technology:** We explore the potential of blockchain technology to bring transparency and security to financial transactions.
+
 
 **Our Values**
 
