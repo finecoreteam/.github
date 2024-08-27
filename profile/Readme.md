@@ -16,7 +16,4 @@ We specialize in developing:
 * **Collaboration:** We believe in the power of collaboration and foster a strong sense of community within our team and with our partners.
 * **Security:** We prioritize the security of financial data and build solutions that are robust and reliable.
 
-**Get Involved**
-
-We are always looking for talented individuals to join our team. If you are passionate about building the future of finance, we encourage you to explore our open-source projects and consider contributing!
 
